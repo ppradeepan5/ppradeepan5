@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peniyalpradeesh (PK)
+# 👋 Hi, I'm Peniyalpradeesh (Pen)
 
 **Robotics Software Engineer specialising in embedded systems, autonomy and control.**  
 I build real-time robotic systems using **C++**, **ROS2**, and **embedded hardware**, combining low‑level electronics with high‑level autonomy.
