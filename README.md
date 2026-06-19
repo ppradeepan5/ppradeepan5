@@ -20,11 +20,13 @@ Currently:
 
 ---
 
-## 🚀 Technical Focus
-- **Robotics & Autonomy:** ROS2 (C++), real-time systems, control, sensor fusion  
-- **Embedded Systems:** ESP32, STM32, C/C++, PCB design, signal conditioning  
-- **Software Engineering:** Linux, Git, modular architectures, testing & debugging  
-- **Electronics:** circuit design, LTspice simulation, power systems, PCB layout  
+## 🚀 Technical Focus  
+- **AI‑Driven Robotics:** deep learning for perception, behaviour modelling, reinforcement learning for control, and intelligent decision‑making in autonomous systems  
+- **Autonomy & Humanoids:** whole‑body control, locomotion, manipulation, kinematics/dynamics, and high‑level planning for human‑like robots  
+- **Robotics Software Engineering:** ROS2 (C++), real‑time systems, motion planning, trajectory optimisation, sensor fusion, and state estimation  
+- **Embedded Robotics Platforms:** ESP32/STM32 firmware, low‑latency communication, and hardware‑software integration for autonomous robotic systems  
+- **Systems Engineering:** Linux robotics development, modular architectures, simulation‑to‑real workflows, and rigorous testing for reliable autonomy  
+
 
 ---
 
