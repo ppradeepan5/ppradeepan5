@@ -5,7 +5,7 @@ I build real-time robotic systems using **C++**, **ROS2**, and **embedded hardwa
 
 Currently:
 - 🎓 BEng Electrical & Electronic Engineering @ University of Sheffield (First Class)
-- 🤖 Research Engineer @ RAMS Robotics Lab — developing ROS2 (C++) software for manipulation & autonomous systems
+- 🤖 Researcher @ RAMS Robotics Lab — developing ROS2 (C++) software for manipulation & autonomous systems
 - 🦾 **Software Engineering Placement (14 months) @ Rivelin Robotics**  
   Working on NetShape® — a production robotics platform for robot teaching, perception and control.  
   Contributing to:
