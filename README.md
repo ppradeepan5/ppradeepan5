@@ -19,7 +19,7 @@ I enjoy working across the software stack, from low-level embedded firmware and 
 **Human–Robot Collaboration Research — RAMS Robotics Lab**
 - Working with PhD researchers on a robotics safety project focused on human-aware robot motion.
 - Developing a C++ perception pipeline using Intel RealSense RGB-D sensing and computer vision.
-- Implemented complex optimisation algorithms to ensure robustness of the perception pipeline like a Kelman filter.
+- Implemented complex optimisation algorithms and state estimation like the Kalman Filter to ensure robustness of the perception pipeline.
 - Exploring the foundations of collision avoidance and safety-aware robot control.
 
 ## Public Projects
@@ -40,5 +40,4 @@ C++ software engineering, robotics and autonomy, motion planning, embedded syste
 ## 📫 Contact
 - Email: pkracks@icloud.com  
 - LinkedIn: [linkedin.com/in/peniyalpradeesh-pradeepan-a46145377](https://www.linkedin.com/in/peniyalpradeepan-a46145377)
-- Number: 07888644371
 
