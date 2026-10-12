@@ -1,70 +1,44 @@
-# 👋 Hi, I'm Peniyalpradeesh (Pen)
+# Peniyalpradeesh Pradeepan
 
-**Robotics Software Engineer specialising in embedded systems, autonomy and control.**  
-I build real-time robotic systems using **C++**, **ROS2**, and **embedded hardware**, combining low‑level electronics with high‑level autonomy.
+**Robotics Software Engineer**
 
-Currently:
-- 🎓 BEng Electrical & Electronic Engineering @ University of Sheffield (First Class)
-- 🤖 Researcher @ RAMS Robotics Lab — developing ROS2 (C++) software for manipulation & autonomous systems
-- 🦾 **Software Engineering Placement (14 months) @ Rivelin Robotics**  
-  Working on NetShape® — a production robotics platform for robot teaching, perception and control.  
-  Contributing to:
-  - C++ backend architecture & feature development  
-  - ROS2 stack improvements, error handling & real-time behaviour  
-  - Multi‑robot & 8‑axis path planning  
-  - Hardware‑in‑the‑loop CI/CD pipelines  
-  - Sensor data processing for improved part quality  
-  - Scalable AWS-based infrastructure for robotics 
-- 🛠️ Building production-quality robotics and embedded projects
+I'm an Electrical and Electronic Engineering student at the University of Sheffield, currently working as a Software Engineer at Rivelin Robotics. My work focuses on building and debugging software for industrial robotic systems, primarily using C++, Python and ROS2.
 
+Alongside my placement, I am currently contributing to human–robot collaboration research alongside two PhD researchers, exploring how computer vision and control can help robots operate safely around people.
 
----
+I enjoy working across the software stack, from low-level embedded firmware and sensor processing to robot kinematics, motion planning and system integration. I'm particularly interested in the engineering behind reliable, high-performance robotic systems and how software translates into physical behaviour.
 
-## 🚀 Technical Focus  
-- **AI‑Driven Robotics:** deep learning for perception, behaviour modelling, reinforcement learning for control, and intelligent decision‑making in autonomous systems  
-- **Autonomy & Humanoids:** whole‑body control, locomotion, manipulation, kinematics/dynamics, and high‑level planning for human‑like robots  
-- **Robotics Software Engineering:** ROS2 (C++), real‑time systems, motion planning, trajectory optimisation, sensor fusion, and state estimation  
-- **Embedded Robotics Platforms:** ESP32/STM32 firmware, low‑latency communication, and hardware‑software integration for autonomous robotic systems  
-- **Systems Engineering:** Linux robotics development, modular architectures, simulation‑to‑real workflows, and rigorous testing for reliable autonomy  
+## Experience
 
+**Software Engineer — Rivelin Robotics**
+- Developing C++ software for an industrial robotics platform.
+- Owned the design and implementation of large projects within our robotics software platform.
+- Implementing features across ROS2, robot configuration, motion planning and hardware abstraction.
+- Debugging production issues by tracing behaviour across interconnected software components and validating fixes.
 
----
+**Human–Robot Collaboration Research — RAMS Robotics Lab**
+- Working with PhD researchers on a robotics safety project focused on human-aware robot motion.
+- Developing a C++ perception pipeline using Intel RealSense RGB-D sensing and computer vision.
+- Implemented complex optimisation algorithms to ensure robustness of the perception pipeline like a Kelman filter.
+- Exploring the foundations of collision avoidance and safety-aware robot control.
 
-## 🧩 Featured Projects
+## Selected Projects
 
-### 🤖 HAND‑E — Anthropomorphic Robotic Hand (ESP32, C++, PCB)
-- Designed a **real-time embedded system** for flex-sensor acquisition & PWM actuator control  
-- Built a **custom PCB** integrating power regulation, MCU and signal conditioning  
-- Achieved **<80 ms end‑to‑end latency** using ESP‑NOW  
-- Reduced system volume by **40%** vs breadboard prototype  
+**HAND-E — Anthropomorphic Robotic Hand**
+- Developed embedded C++ firmware for an ESP32-based robotic hand, including sensor filtering, per-finger calibration and servo control.
+- Integrated flex sensors, a PCA9685 PWM controller and custom PCB hardware with a tendon-driven mechanical design.
 
-### 🚗 RC AI Rover — Autonomous Navigation (Raspberry Pi, Python)
-- Implemented differential drive control & obstacle avoidance  
-- Improved navigation performance by **35%** through filtering, calibration & noise reduction  
-- Integrated motors, sensors and power electronics into a cohesive robotic platform  
+**5-DoF Robotic Arm — Kinematics & Trajectory Planning**
+- Implemented forward kinematics, geometric collision detection and joint-space validation in C++ without robotics or motion-planning libraries.
+- Developed time-optimal trajectories using trapezoidal velocity profiles and velocity and acceleration constraints.
 
-### 🦾 Siemens Robotic Arm Competition — 2nd Place
-- Developed control + integration solutions under strict time constraints  
-- Led CAD‑to‑software integration ensuring precise actuator behaviour  
+## Technical Interests
 
----
+C++ software engineering, robotics and autonomy, motion planning, embedded systems, real-time software, perception, control systems, hardware-software integration and human–robot interaction.
 
-## 🧪 Research Work — RAMS Robotics Lab
-- Develop and maintain **ROS2 (C++) nodes** for manipulation & autonomous systems  
-- Build diagnostic tooling for real-time robot behaviour analysis  
-- Support PhD researchers with system integration & experimental validation  
-
----
-
-## 🛠️ Tech Stack
-**Languages:** C++, Python, C, MATLAB  
-**Frameworks:** ROS2, Linux  
-**Hardware:** ESP32, Raspberry Pi, Arduino, PCB design, LTspice  
-**Tools:** Git, Fusion 360, SolidEdge, 3D printing  
-
----
 
 ## 📫 Contact
 - Email: pkracks@icloud.com  
 - LinkedIn: [linkedin.com/in/peniyalpradeesh-pradeepan-a46145377](https://www.linkedin.com/in/peniyalpradeepan-a46145377)
+- Number: 07888644371
 
