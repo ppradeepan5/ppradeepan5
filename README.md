@@ -22,7 +22,7 @@ I enjoy working across the software stack, from low-level embedded firmware and 
 - Implemented complex optimisation algorithms to ensure robustness of the perception pipeline like a Kelman filter.
 - Exploring the foundations of collision avoidance and safety-aware robot control.
 
-## Selected Projects
+## Public Projects
 
 **HAND-E — Anthropomorphic Robotic Hand**
 - Developed embedded C++ firmware for an ESP32-based robotic hand, including sensor filtering, per-finger calibration and servo control.
